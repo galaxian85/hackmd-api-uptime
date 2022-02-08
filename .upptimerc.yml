@@ -13,7 +13,6 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /hackmd-api-uptime
   logoUrl: https://hackmd.io/apple-touch-icon.png
-  themeUrl: https://galaxian85.github.io/hackmd-api-uptime/theme.css
   name: HackMD api status
   introTitle: "This is **HackMD** uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -25,6 +24,16 @@ status-website:
     - title: HackMD
       href: https://hackmd.io
   favicon: https://hackmd.io/favicon.png
+  css: ":root {
+    --body-background-color: rgb(51, 51, 51);
+    --body-text-color: rgb(51, 51, 51)
+    --card-background-color: rgb(38, 38, 38);
+    --card-border-color: rgb(51, 51, 51);
+    --up-border-left-color: rgb(38, 38, 38);
+  }
+  :root .container {
+    --body-text-color: rgb(255, 255, 255)
+  }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
