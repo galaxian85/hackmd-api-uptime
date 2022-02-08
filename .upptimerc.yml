@@ -26,13 +26,13 @@ status-website:
   favicon: https://hackmd.io/favicon.png
   css: ":root {
     --body-background-color: rgb(51, 51, 51);
-    --body-text-color: rgb(51, 51, 51)
+    --body-text-color: rgb(51, 51, 51);
     --card-background-color: rgb(38, 38, 38);
     --card-border-color: rgb(51, 51, 51);
     --up-border-left-color: rgb(38, 38, 38);
   }
   :root .container {
-    --body-text-color: rgb(255, 255, 255)
+    --body-text-color: rgb(255, 255, 255);
   }"
 
 # Upptime also supports notifications, assigning issues, and more
