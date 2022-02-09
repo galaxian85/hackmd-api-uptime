@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1312,
-    "timeDay": 2614,
-    "timeWeek": 1312,
-    "timeMonth": 1312,
-    "timeYear": 1312,
+    "time": 1286,
+    "timeDay": 2327,
+    "timeWeek": 1286,
+    "timeMonth": 1286,
+    "timeYear": 1286,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://hackmd.io/favicon.png",
     "slug": "hack-md-api",
     "status": "down",
-    "uptime": "4.97%",
-    "uptimeDay": "4.97%",
-    "uptimeWeek": "4.97%",
-    "uptimeMonth": "4.97%",
-    "uptimeYear": "4.97%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 11
     }
   }
 ]
