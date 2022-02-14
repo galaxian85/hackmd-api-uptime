@@ -16,7 +16,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.hackmd.io
+  # cname: status.hackmd.io
   baseUrl: /hackmd-api-uptime
   logoUrl: https://hackmd.io/apple-touch-icon.png
   name: HackMD Status
