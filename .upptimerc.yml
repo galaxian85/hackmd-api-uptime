@@ -47,7 +47,7 @@ status-website:
   "
   
 workflowSchedule:
-  graphs: "*/5 * * * *"
+  responseTime: "*/3 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
